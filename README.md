@@ -1,5 +1,5 @@
-# redux-app
-It's my builded SPA on React/Redux (without backend)
+# Calc
+Это простой кальулятор на React
 <br>
-original repository: https://github.com/Deadlift3008/redux-app
+Оригинальный репозиторий: https://github.com/Deadlift3008/calc
 
